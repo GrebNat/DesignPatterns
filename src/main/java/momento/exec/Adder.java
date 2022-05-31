@@ -20,7 +20,6 @@ public class Adder {
         memento.setState(result);
     }
 
-
     public void undo() {
         result = memento.getState();
     }

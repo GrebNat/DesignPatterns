@@ -12,8 +12,5 @@ public class Canvas {
 
     DropdownButton dropdownButton = new DropdownButton(new LargeButtonSize());
     dropdownButton.draw();
-
-
   }
-
 }
